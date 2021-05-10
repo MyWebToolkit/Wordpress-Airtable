@@ -11,7 +11,7 @@ It is motivated by the fact that, as of the time of writing this, information, a
 
 The project provides guidance on how to create a working proof of concept of a Wordpress - Airtable integration.
 
-It utilizes a Wordpress Plugin, which can be configured to work with a free Airtable account and a standard Airtable Base template, with minor changes.
+It utilizes a Wordpress Plugin, uses wp_remote_get() rather than directly using curl. The plugin can be configured to work with a free Airtable account and a standard Airtable Base template, with minor changes to two of the tables.
 
 
 # Getting started - details to follow...
