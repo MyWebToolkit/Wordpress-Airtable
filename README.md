@@ -14,7 +14,7 @@ The project provides guidance on how to create a working proof of concept baseli
 It is implemented as a Wordpress Plugin which uses teh Wordpress preferred method wp_remote_get() rather than directly using curl or javascript. The plugin, as is, can be configured to work with a free Airtable account and a standard Airtable Base template, with minor changes to two of the tables.
 
 
-# Getting started - details to follow...
+# Getting started
 
 ## Creating a free Airtable Account
 
@@ -29,7 +29,7 @@ Once you have signed up you will have access to an initial workspace usually nam
 
 This plugin is designed to work with a specific Airtable Template 'Volunteer Management'. At the time of writing it can be found by choosing 'Add a base' from your workspace, choosing 'Start with a template'. The 'Volunteer Management' template is within the 'Nonprofit' category.
 
-### Adding columns to the relevant tables
+### Adding columns to the relevant tables
 
 Once your base is created, you will need to add these specific columns to the following tables.
 
