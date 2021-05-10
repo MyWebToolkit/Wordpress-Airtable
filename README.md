@@ -33,9 +33,9 @@ This plugin is designed to work with a specific Airtable Template 'Volunteer Man
 
 Once your base is created, you will need to add these specific columns to the following tables.
 
-a) Volunteers: add a 'single line text' field type column titled 'username'
-b) Volunteering Events: add a 'Date' field type column titled 'Completed'
-c) Volunteering Events: add a 'Long Text' field type column titled 'Notes'
+1) Volunteers: add a 'single line text' field type column titled 'username'
+2) Volunteering Events: add a 'Date' field type column titled 'Completed'
+3) Volunteering Events: add a 'Long Text' field type column titled 'Notes'
 
 ### Associating Wordpress usernames with Airtable Volunteers
 
