@@ -106,6 +106,7 @@ At this time, within the plugin, there is no error handling for the calls from w
 Two sources I found useful were: 
 
 [stackoverflow](https://stackoverflow.com)
+
 [community.airtable.com](https://community.airtable.com)
 
 
